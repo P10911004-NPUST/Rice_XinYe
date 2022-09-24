@@ -2,7 +2,7 @@
 Rice leaf nitrogen content estimation via leaf color chart (LCC) and RGB-image.
 
 ## **利用LCC校正智慧型手機RGB影像探測水稻葉片氮含量之研究**
-##### 李欣曄、賴俊傑<sup>\*</sup>、林汶鑫<sup>\*</sup>
+##### 李欣曄、賴俊傑<sup>\*</sup>、林汶鑫
 ##### p10911004@gmail.com
 ##### 國立屏東科技大學農園生產系
 
